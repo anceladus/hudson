@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cadastro3.0</string>
+
+    <string name="nome">Nome Do Cachorro</string>
+    <string name="raça">Raça Do Cachorro</string>
+    <string name="cadastrar_cachorro">Cadastrar</string>
+    <string name="lista_de_cachorro">Ver Lista</string>
+    <string name="title_activity_list_cachorro">list_cachorro</string>
+    <string name="lista_cachorro">Listagem De Cachorros</string>
+    <string name="listar_cachorros">listar cachorro</string>
+    <string name="title_activity_activityl_list_cachorro">activityl_list_cachorro</string>
+    <string name="title_activity_altera_cachorro">altera_cachorro</string>
+    <string name="sucesso">Sucesso</string>
+<string name="error">ERROR</string>
+<string name="zero_registros">Zero Registros</string>
+
+</resources>
